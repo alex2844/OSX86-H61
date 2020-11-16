@@ -2,7 +2,7 @@
 - [x] <b>Board</b>: Intel H61
 - [x] <b>CPU</b>: Intel Core i5-2310 (4) @ 2.90GHz
 - [ ] <b>GPU</b>: NVIDIA Corporation GF119 [GeForce GT 610] (rev a1) @ 1GB
-- [x] <b>RAM</b>: 8GB DDR3 665.1 MHz
+- [x] <b>RAM</b>: 8GB DDR3 1333 MHz
 - [ ] <b>Audio</b>: C-Media CMI8738
 - [x] <b>Ethernet</b>: Realtek RTL810xE PCI Express Fast Ethernet Controller
 - [x] <b>BIOS</b>: Ver. 4.6.5 (American Megatrends Inc.).
